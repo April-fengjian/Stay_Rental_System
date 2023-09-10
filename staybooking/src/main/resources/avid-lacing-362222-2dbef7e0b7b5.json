@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avid-lacing-362222",
+  "private_key_id": "2dbef7e0b7b5c399a34922dfbe321f22f1a5a0e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnns/d3UDyVd7z\n+aiGt/FvVHUmtL8uFvLHuTtOSd+pYIRiuByVjNbPMlYlSihM92Xls1q2LT/lMjcZ\ntu10iU6ehW4lZnUshfuq7tJD5x+Iyfrb6CWftWBFKlDH0n1v/y/DMWPWpTPYdFn5\nzitJ2GeiWLAQ+emGuPkcuheusw3Of/bwcmNncNfguNKKqx1AqRLYD6YNJUBEfWzv\nb6uEGKA6au92pbrNw8/Vv0xZFcrG1GhsixNjG3Xun2P02KL512kk8wv6nb1TPKcn\nx5JvloOkSMIMGveR5K3LScHg3gshgT+ZzqNoOmz5aoCnwRU7m6kchRHrA8k49JP1\nYbyRkjtbAgMBAAECggEAA9sL1gMmYMyn3b3S6hJmG9T6AuNqeGFvwTdaDWF2oxtE\nwE6S3b/JGygBwkbT6X1RWzjGb+VXkGqYyN8j1CfqZowULgkOzfDhCpwGuyggWhGn\nUxKiduuBpOWlyQrm9sIMc7V5ofDX4fU/MpdS+JZhP+NBXYqaHA66MDZ5n/ufaC4Q\n0hKjOj4c8hHQE0FWTI34XRzgqMAR6FjGOS3B1PCLwuB5XsaSQ+u5JoPXa2soeZFn\nyl+sIbsg7ZyStyG4ZX88eJ9tyW4yciuYHh5eeLcPC6tzYS5W+ZnsN2MLODAqtpfx\njvHMzI2ly64tnQy0mbj5aT8xK1QduxurVwR31uJCaQKBgQDZYmWBU2gvCgCOZ/oD\nDeMhV09uU/nPRoVLtE3UfWiKq9gQZAJyCctV78FrWLKyChehVkq4YNlIIE0UeK2r\nkR2CQIEkvNZNsJI9UFsU8vxLo9LXieQ84Eg43qEUaXpi2WqHkU2iGYjsRslvVCA4\no265cYtovh1qF4+ESV7LlJe1EwKBgQDFZWLYP8n3AjvvYo7f+CPzhtLEOcSBTwa4\n4tSSN3I8iw1wDfpPDNME8ERdQ4lomRiWjn0Qea5TYTao2/S0dsxq3VRe0Rk5ZraX\nZsCI2ahE9Dv/99wwpGH8TSfwFJMjWulvy3qCu7mt+712VFagPIvXbmrxg6DSOoty\n5glrMnRRmQKBgGY2ZOHlNOSBQHe1HhIXkodXxUpsA9bZIs3QzpOuD9y8JlC2pYu3\nXTtgC0MNJqCeLDQ5HdMJ/sByJ6wLfiVgi052RALhI6bN8kUQJnN4OPbb5cRg2sdg\n8bSDwZuWaOxXrEZoJOemOAJY2lgVZz0aY3Kgl9s9IRmEUH/z+7WffaGvAoGBAI8v\nuyKoKuWNblJ4SLF4OwPksbB7QuqVm4ezqoShybDXIRk+WmrLH6r+amjIm70PCMH1\nfAzeZzC+XLriSsA5SJDgGdppjQWRVzO96j2avS+/hmJntgZmx1kP0r+Y/R5xTNG2\nZRi9+bOV31odVXUIVlwgEV09oQO+Sfc/nGdxAuVJAoGBALIxfraQZdTOGuOP2tZq\n9uyVwt/XevCKGLo+lLjbsLtlcSZZkTjos3QdoZeq5wvR96QpSWBUjjDClgGQkfNp\nMY+zEwHVg4jJWmBh8/G59X96WrosN6QHURfeABQNhAzJlH9WCvvQXqo409kVQ23v\ny0gqdKiOjW3dEOQn1gwLrrW9\n-----END PRIVATE KEY-----\n",
+  "client_email": "staybooking-service-account@avid-lacing-362222.iam.gserviceaccount.com",
+  "client_id": "114937527980486509011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/staybooking-service-account%40avid-lacing-362222.iam.gserviceaccount.com"
+}
